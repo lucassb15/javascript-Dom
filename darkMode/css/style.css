@@ -1,0 +1,18 @@
+.dark-mode {
+    background-color: #121212;
+    color: white;
+}
+
+i.fa {
+    font-size: 40px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.fa:hover {
+    color: rgb(1, 0, 82);
+}
+
+.fa-sun:hover {
+    color: rgb(255, 218, 6);
+}
