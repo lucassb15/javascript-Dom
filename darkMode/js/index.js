@@ -6,6 +6,6 @@ function darkMode(element) {
     element.classList.toggle("dark-mode");
 
 }
-function changeIcon(x) {
-    x.classList.toggle("fa-sun");
+function changeIcon(icon) {
+    icon.classList.toggle("fa-sun");
 }
